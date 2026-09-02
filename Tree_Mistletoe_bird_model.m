@@ -18,7 +18,7 @@ m3    = 3;
 m4    = 0.1;
 v     = 1;
 
-%% %% 2. Select parameter value
+%% %% Parameter d
 
 case_d = "d2";     % Options: "d1", "d2", "d3"
 
